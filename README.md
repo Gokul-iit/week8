@@ -1,4 +1,3 @@
-
 # Quarterly Performance Analysis: A Data Story
 
 This repository contains an analysis of the Monthly Recurring Revenue (MRR) growth for the year 2024. The analysis was performed with assistance from an LLM-powered tool to generate insights and recommendations.
